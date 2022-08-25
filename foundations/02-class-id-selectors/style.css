@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two {
+    font-size: 28pt;
+    color:blue
+}
+
+#four {
+    font-size: 18pt;
+    font-style: bold;
+    background-color: lightgreen;
+}
+
+.one, .three {
+    background-color: lightcoral;
+    color: black;
+}
+
+.one {
+    font-size: 12pt;
+}
+
+.three {
+    font-size: 22pt;
+}
+

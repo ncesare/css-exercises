@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: red;
+    color: white;
+    font-size: larger;
+    text-indent: 1cm;
+}
